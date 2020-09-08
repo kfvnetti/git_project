@@ -2,5 +2,5 @@
 using namespace
 init main()
 {
-count <<4<end;    
+count <<5<end;    
 }
